@@ -1,16 +1,16 @@
-# call_apps
+# My_Call_Apps
 
-A new Flutter project.
+============================================================================================================================================
+============================================================================================================================================
 
-## Getting Started
+In this repository, I have sliced the UI into 5 pages within the allocated 1-hour time frame. There are some tasks I would like to implement, 
+such as making calls using the built-in WebRTC plugin in Flutter, before the assessment reaches the UI slicing and code quality. However, 
+I believe the evaluation will only cover UI slicing and code quality.
 
-This project is a starting point for a Flutter application.
+Moving forward, I would like to mention that I am already familiar with using Twilio, Agora, Firebase, and Sendbird for telephone and chat 
+service plugins. Additionally, I am accustomed to working with Git and Bitbucket. I am also well-versed in collaborating within large teams.
 
-A few resources to get you started if this is your first Flutter project:
+Thank You
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+===========================================================================================================================================
+===========================================================================================================================================
